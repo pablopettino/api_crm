@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pablo",
+      "empresa": "Feco",
+      "email": "correo@correo.com",
+      "telefono": "3414321241",
+      "notas": "cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Maria",
+      "empresa": "Laboratorio",
+      "email": "mlabo@labo.com",
+      "telefono": "1239582",
+      "notas": "No llamar",
+      "id": 2
+    },
+    {
+      "nombre": "Transporte",
+      "empresa": "Transporte Elena",
+      "email": "eletranspo@transporte.com",
+      "telefono": "98342124",
+      "notas": "Son malos",
+      "id": 3
+    },
+    {
+      "nombre": "Delibery",
+      "empresa": "Sanguchitos tuhana",
+      "email": "sangu@gmail.com",
+      "telefono": "2983452",
+      "notas": "Estan Feos",
+      "id": 4
+    }
+  ]
+}
